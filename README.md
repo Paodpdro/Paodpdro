@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/PramudithaN/git-tulkun">
+    <img src="https://raw.githubusercontent.com/Paodpdro/Paodpdro/output/tulkun/tulkun.gif" width="640" alt="Paodpdro's git-tulkun" />
+  </a>
+</p>
 
 <!--
 **Paodpdro/Paodpdro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
